@@ -1,8 +1,6 @@
-Portfolio
-
 **About Me**
 
-I'm a Senior Web Officer skilled in ICT governance. Currently exploring GitHub as a method to showcase my portfolio. 
+I'm a senior web officer skilled in ICT governance. Currently exploring GitHub as a method to showcase my portfolio. 
 
 **Skills and interests**
 
